@@ -1,0 +1,101 @@
+body{
+  background-color: lightblue
+}
+
+h1{
+  color: royalblue
+}
+nav{
+  text-align: right;
+  text-decoration: none;
+  font-size: 30px;
+  
+}
+nav ul{
+  display: flex;
+  list-style: none;
+  justify-content: right;
+  
+}
+a{
+  text-decoration: none;
+  padding: 40px;
+  color: white;
+  border: 50px;
+  
+ }
+h2{
+  color: royalblue;
+}
+.black{
+  background-color: royalblue;
+  padding-top: 60px;
+}
+.active{
+  color: lightblue;
+}
+#read{
+  background-color: royalblue;
+  border-radius: 10px;
+  height: 20px;
+  width: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px
+}
+footer{
+  text-align: center;
+  justify-content: center;
+  background-color: royalblue;
+  padding: 10px;
+  margin-top: auto;
+}
+label{
+  color: royalblue;
+}
+  
+.pic{
+  height: 600px;
+  width: 800px;
+  margin-left: 15px;
+}
+.field{
+  height: 500px;
+  width: 300px;
+  justify-content: center;
+  align-items: center;
+}  
+.center{
+  justify-content: center;
+  align-items: center;
+  position: center;
+}
+.shape{
+  border-radius: 10px;
+  height: 20px;
+  
+}
+.submitbut{
+  background-color: royalblue;
+  color: white;
+  border-radius: 10px;
+  height: 30px;
+  width: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px
+}
+.insta
+{
+  width: 50px;
+}
+.face{
+width: 50px;  
+}
+.whats{
+  width: 50px
+}
+.x{
+  width: 50px;
+}
+.handle{
+  display: flex;
+}
